@@ -1,0 +1,12 @@
+{
+    "name": "omni/php-training-orm",
+    "authors": [
+        {
+            "name": "Geoffrey",
+            "email": "geoffrey.frioli@gmail.com"
+        }
+    ],
+    "require": {
+        "j4mie/idiorm": "^1.5"
+    }
+}
